@@ -11,7 +11,7 @@ class ChatApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Chat Test',
       theme:
-          ThemeData(primarySwatch: Colors.red, accentColor: Color(0xFFEF90Eb)),
+          ThemeData(primarySwatch: Colors.lightBlue, accentColor: Colors.grey.shade100),
       home: HomeScreen(),
     );
   }
