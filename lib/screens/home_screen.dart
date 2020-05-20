@@ -20,6 +20,7 @@ class _HomeScreenState extends State<HomeScreen> {
           color: Colors.white,
           onPressed: () {},
         ),
+        //TODO - need to fix this
         title: Text('Chats',
             style: TextStyle(fontSize: 28, fontWeight: FontWeight.bold)),
         elevation: 0.0,
